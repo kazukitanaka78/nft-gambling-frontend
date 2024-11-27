@@ -1,3 +1,7 @@
+<div align="left">
+<a href="https://app.daily.dev/kazukitanaka78"><img src="https://api.daily.dev/devcards/v2/PHSwSXz5nU7o2tQfxoObs.png?r=l8b&type=default" width="356" alt="Kazuki Tanaka's Dev Card"/></a>
+</div>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
